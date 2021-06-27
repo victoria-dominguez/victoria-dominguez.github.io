@@ -1,0 +1,83 @@
+:root {
+  --primary-color: #fffffc;
+  --secondary-color: #dba159;
+  --tertiary-color: #4c6663;
+  --text-color: #2a2d34;
+  --accent-color: #4c6663;
+}
+
+.navbar {
+  width: 100%;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: var(--text-color);
+  text-decoration: none;
+  font-size: 25px;
+  width: 18%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; /* If you want the text to be centered */
+}
+
+/* Add a background color on mouse-over */
+.navbar a:hover {
+  color: var(--accent-color);
+}
+
+.navbar a.center {
+  width: 20%;
+  font-size: 50px;
+  color: var(--text-color);
+}
+
+/* Add responsiveness - on screens less than 500px, make the navigation links appear on top of each other, instead of next to each other */
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left; /* If you want the text to be left-aligned on small screens */
+  }
+}
+
+body {
+  background-color: var(--primary-color);
+  font-family: "Arvo", arial;
+  margin: 0px;
+}
+
+/*border of site*/
+.border {
+  width: auto;
+  margin: 0 auto;
+  padding: 10px 25px;
+  border: 20px solid var(--secondary-color);
+}
+
+.margin {
+  height: 50px;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profilepicture {
+  height: 400px;
+  width: auto;
+  margin: 30px;
+}
+
+.profiletext {
+  width: 500px;
+  align-items: center;
+}
+
+.footer {
+  height: 1000000px;
+  background-color: var(--secondary-color);
+} 
