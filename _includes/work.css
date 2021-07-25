@@ -1,0 +1,58 @@
+.articlewrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 1200px;
+  margin-left: auto;
+  min-height: 200px;
+  margin-right: auto;
+}
+
+.articlerow {
+  display: inline-flex;
+  align-items: baseline;
+  justify-content: space-evenly;
+}
+
+.article {
+  max-width: 22%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.imagewrapper {
+  min-height: 50px;
+}
+
+.article img {
+  border-radius: 5%;
+  max-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.articletitle {
+  text-align: center;
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
