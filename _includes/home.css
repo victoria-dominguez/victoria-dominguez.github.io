@@ -96,6 +96,6 @@ body {
 }
 
 .footer {
-  height: 1000000px;
+  height: 10px;
   background-color: var(--secondary-color);
 }
