@@ -6,30 +6,6 @@
   url: https://www.fsunews.com/story/news/2019/09/08/students-describe-their-experiences-off-campus-apartments-fall-semester-starts/2255355001/
   image_url: https://www.gannett-cdn.com/presto/2019/09/08/PFSU/5eb6f383-39dc-4376-9065-7a5a0347d050-JSL_6898.jpg?width=1320&height=880&fit=crop&format=pjpg&auto=webp
 
-- name: FSU College of Law hosts event for Wrongful Conviction Day
-  url: https://www.fsunews.com/story/news/2019/10/06/fsu-college-law-hosts-event-wrongful-conviction-day/3890278002/
-  image_url: https://www.gannett-cdn.com/presto/2019/10/06/PFSU/ceb16b6f-098e-42aa-a618-746ea053fcfa-IMG_8119.jpeg?width=1320&height=990&fit=crop&format=pjpg&auto=webp
-
-- name: Research shows climate change could bring short-term gain, long-term pain for turtle species
-  url: https://www.fsunews.com/story/news/2019/10/13/research-shows-climate-change-could-bring-short-term-gain-long-term-pain-turtle-species/2333721001/
-  image_url: https://www.gannett-cdn.com/presto/2019/09/15/PFSU/372876b5-927b-4bef-8eaa-2966fbe6c32b-TLHBrd_07-01-2015_Democrat_1_C00320150630IMG_IMG_TLH_skybox_0620__1_1_45B7PKA4_L636451619IMG_IMG_TLH_skybox_0620__1_1_45B7PKA4.jpg?width=1320&height=880&fit=crop&format=pjpg&auto=webp
-
-- name: kNOwMORE hosts documentary screening on college sexual assault
-  url: https://www.fsunews.com/story/news/2019/10/13/knowmore-hosts-documentary-screening-college-sexual-assault/3968741002/
-  image_url: https://www.gannett-cdn.com/-mm-/cc0acf25e8bad34c6ee416e244e1e1646f2f12ed/c=0-44-204-159/local/-/media/2018/04/15/FSUNews/FSUNews/636593492313551895-download.png?width=204&height=115&fit=crop&format=pjpg&auto=webp
-
-- name: Jim Moran School of Entrepreneurship hosts a panel discussion recognizing Women in Entrepreneurship Week
-  url: https://www.fsunews.com/story/news/2019/10/27/jim-moran-school-entrepreneurship-hosts-panel-discussion-recognizing-women-entrepreneurship-week/2478107001/
-  image_url: https://www.gannett-cdn.com/presto/2019/10/27/PFSU/bc0459b3-774f-4bcf-8b13-03031d6b6151-_private_var_mobile_Containers_Shared_AppGroup_B87146B7-0571-49C1-A571-039A8C45BCB1_Library_Caches_Attachment-Uploads_Image-1.jpeg?width=600&height=800&fit=crop&format=pjpg&auto=webp
-
-- name: Founder of Pride Student Union gives talk on campus 
-  url: https://www.fsunews.com/story/news/2019/11/03/founder-pride-student-union-gives-talk-campus/4146113002/
-  image_url: https://www.gannett-cdn.com/presto/2019/11/03/PFSU/b736ca41-8639-499c-8e06-5c4e6159c831-ruizpridefsu.jpg?width=1320&height=990&fit=crop&format=pjpg&auto=webp
-
-- name: Research shows helicopter parenting hinders children’s self-control skills 
-  url: https://www.fsunews.com/story/news/2019/12/01/research-shows-helicopter-parenting-hinders-childrens-self-control-skills/4339285002/
-  image_url: https://www.gannett-cdn.com/presto/2019/11/30/PFSU/b553c357-c426-41d8-b4cf-f021fa9280ab-GettyImages-144463714.jpg?width=1320&height=908&fit=crop&format=pjpg&auto=webp
-
 - name: Tallahassee City Commissioners Discuss Crime, Other Issues At Annual Retreat
   url: https://news.wfsu.org/wfsu-local-news/2020-01-15/tallahassee-city-commissioners-discuss-crime-other-issues-at-annual-retreat
   image_url: https://npr.brightspotcdn.com/dims4/default/0fabd81/2147483647/strip/true/crop/360x150+0+0/resize/534x222!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F1d%2F09c1abe24ca68ff49042acaa709f%2Fwfsu-logo-312c2c.png
@@ -86,4 +62,18 @@
   url: https://www.npr.org/live-updates/morning-edition-2021-08-16#lessons-on-the-afghan-presidents-leadership
   image_url: https://npr.brightspotcdn.com/dims4/default/e5e4c57/2147483647/strip/true/crop/5912x3937+12+0/resize/1760x1172!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F27%2F6ee3d3344b5f9b43d31e51d100a3%2Fap-21226475779194.jpg
   
+- name: Kids content is crushing it
+  url: https://music.amazon.com/podcasts/57078848-4d43-41ba-b527-b5dfcc4c9fce/episodes/3300345c-6ee9-4c36-98f9-09d0c6d50b32/recode-daily-kids-content-is-crushing-it
+  image_url: https://m.media-amazon.com/images/S/dmp-catalog-images-prod/images/57078848-4d43-41ba-b527-b5dfcc4c9fce/57078848-4d43-41ba-b527-b5dfcc4c9fce--940888195._SX768_SY768_BL0_QL100__UX716_FMwebp_QL85_.jpg
   
+- name: The problem with TikTok therapists 
+  url: https://www.podchaser.com/podcasts/recode-daily-910889/episodes/the-problem-with-tiktok-therap-132915470
+  image_url: https://cachedimages.podchaser.com/256x256/aHR0cHM6Ly9tZWdhcGhvbmUuaW1naXgubmV0L3BvZGNhc3RzLzEzMjM0MzY0LTQxMTgtMTFlYS1iZWY3LTc3ZmQyMGJlYWZlMS9pbWFnZS91cGxvYWRzXzJGMTYxMTA3NDE3Mzc2NS1yN3lzeW9tMXp5LWUwZDVmYTc5NzA5MTI4NTZmYmQwZjgwZjBmYWQwMGE3XzJGUkVDXzAxM19SZWNvZGVEYWlseV9UaWxlQXJ0XzMwMDB4MzAwMCUyQl8yODJfMjkuanBnP2l4bGliPXJhaWxzLTIuMS4yJm1heC13PTMwMDAmbWF4LWg9MzAwMCZmaXQ9Y3JvcCZhdXRvPWZvcm1hdCUyQ2NvbXByZXNz/aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc%3D
+
+- name: Adderall via Instagram
+  url: https://podcasts.apple.com/au/podcast/adderall-via-instagram/id1346207297?i=1000565838060
+  image_url: https://is4-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f9/f0/4c/f9f04cad-2f17-2e83-a244-6748934d1dc2/mza_8668160915944456837.jpeg/626x0w.webp
+  
+- name: Roe v. Wade v. God
+  url: https://podcasts.apple.com/us/podcast/roe-v-wade-v-god/id1346207297?i=1000568150653
+  image_url: https://is4-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f9/f0/4c/f9f04cad-2f17-2e83-a244-6748934d1dc2/mza_8668160915944456837.jpeg/626x0w.webp
