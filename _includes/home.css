@@ -1,9 +1,9 @@
 :root {
-  --primary-color: #fffffc;
-  --secondary-color: #00f040;
-  --tertiary-color: #4c6663;
+  --primary-color: #fffffcb0;
+  --secondary-color: rgb(86,130,3);
+  --tertiary-color: rgb(41, 10, 195);
   --text-color: #2a2d34;
-  --accent-color: #4c6663;
+  --accent-color: #67002e;
 }
 
 .navbar {
